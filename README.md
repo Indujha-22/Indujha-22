@@ -13,12 +13,12 @@
 ---
 
 ## 📊 GitHub Stats
-![Indhu's GitHub stats](https://github.com/Indujha-22)
+![Indhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Indujha-22&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Indujha-22&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: indujhanataraj@gmail.com
-- 💼 LinkedIn:(www.linkedin.com/in/indujha-n-b99ab5373)  
-
-
+- 📧 Email: indujhanataraj@gmail.com  
+- 💼 LinkedIn: [Indujha N](https://www.linkedin.com/in/indujha-n-b99ab5373)  
